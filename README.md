@@ -1,4 +1,4 @@
-NO2_iqr: continuous variable
+NO2_iqr: continuous variable/
 NO2_category: binary, low and high
 
 age: continuous variable;
